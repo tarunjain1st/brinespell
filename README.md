@@ -9,6 +9,10 @@ The application is deployed on this url :
 
 # what we can do actually with this app
 
-Now, we can throw some dices.
-When someone throw dices, all people connected can see.
-For song it's same, we can add one song and the other will listen the same song.
+it is a role-playing project.
+An example is available on https://brinespell.net/home
+The principle is as follows: 
+a game master, and players. players can roll dice. all players see the roll.
+The game master manages images and sounds, and the players receive the same information.
+The project is a WT, C++ project.
+
